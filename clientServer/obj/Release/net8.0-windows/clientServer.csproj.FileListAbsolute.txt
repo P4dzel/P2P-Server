@@ -1,0 +1,16 @@
+C:\Users\patry\source\repos\clientServer\clientServer\bin\Release\net8.0-windows\clientServer.exe
+C:\Users\patry\source\repos\clientServer\clientServer\bin\Release\net8.0-windows\clientServer.deps.json
+C:\Users\patry\source\repos\clientServer\clientServer\bin\Release\net8.0-windows\clientServer.runtimeconfig.json
+C:\Users\patry\source\repos\clientServer\clientServer\bin\Release\net8.0-windows\clientServer.dll
+C:\Users\patry\source\repos\clientServer\clientServer\bin\Release\net8.0-windows\clientServer.pdb
+C:\Users\patry\source\repos\clientServer\clientServer\obj\Release\net8.0-windows\clientServer.Form1.resources
+C:\Users\patry\source\repos\clientServer\clientServer\obj\Release\net8.0-windows\clientServer.csproj.GenerateResource.cache
+C:\Users\patry\source\repos\clientServer\clientServer\obj\Release\net8.0-windows\clientServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\source\repos\clientServer\clientServer\obj\Release\net8.0-windows\clientServer.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\clientServer\clientServer\obj\Release\net8.0-windows\clientServer.AssemblyInfo.cs
+C:\Users\patry\source\repos\clientServer\clientServer\obj\Release\net8.0-windows\clientServer.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\clientServer\clientServer\obj\Release\net8.0-windows\clientServer.dll
+C:\Users\patry\source\repos\clientServer\clientServer\obj\Release\net8.0-windows\refint\clientServer.dll
+C:\Users\patry\source\repos\clientServer\clientServer\obj\Release\net8.0-windows\clientServer.pdb
+C:\Users\patry\source\repos\clientServer\clientServer\obj\Release\net8.0-windows\clientServer.genruntimeconfig.cache
+C:\Users\patry\source\repos\clientServer\clientServer\obj\Release\net8.0-windows\ref\clientServer.dll
